@@ -6,3 +6,4 @@
 #### Tools: React Hook, CSS
 #### Live: https://abrarkhalil26.github.io/connect-4-game/
 #### To Run App: npm start
+![](https://github.com/AbrarKhalil26/connect-4-game/blob/main/design/design.jpeg)
